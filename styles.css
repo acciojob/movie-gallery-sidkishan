@@ -1,2 +1,13 @@
-
-/* Your CSS Code here. */
+img{
+	width:100px;
+	height:100px;
+}
+.container-fluid{
+	display:flex;
+	flex-flow:column wrap;
+}
+row{
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:space-between;
+}
